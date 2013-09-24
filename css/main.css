@@ -97,3 +97,21 @@ html{
 #connect li{
 	display:inline-block;
 }
+nav{
+	position:absolute;
+	top: 10px;
+	right: 20px;
+}
+
+nav li{
+	margin: 10px;
+	list-style-type: none;
+	display:inline;
+	float: teft;
+}
+
+nav li a{
+	color:#8d7401;
+	text-decoration:none;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 1.5rem;
